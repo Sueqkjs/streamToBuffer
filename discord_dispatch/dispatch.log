@@ -1,0 +1,134 @@
+[2019-01-26][18:50:25][DEBUG][discord_dispatch::application_manager:190] App started. version="1.9.0"
+[2019-01-26][18:50:25][DEBUG][discord_dispatch::application_manager:969] Searching for applications. install_path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" }
+[2019-01-26][18:50:25][WARN][discord_dispatch::application_manager:973] Failed to read install path. path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" } error=Os { code: 3, kind: NotFound, message: "The system cannot find the path specified." }
+[2019-01-26][19:17:51][DEBUG][discord_dispatch::application_manager:190] App started. version="1.9.0"
+[2019-01-26][19:17:51][DEBUG][discord_dispatch::application_manager:969] Searching for applications. install_path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" }
+[2019-01-26][19:17:51][WARN][discord_dispatch::application_manager:973] Failed to read install path. path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" } error=Os { code: 3, kind: NotFound, message: "The system cannot find the path specified." }
+[2019-01-26][21:51:55][DEBUG][discord_dispatch::application_manager:698] Updating credentials.
+[2019-01-26][22:51:25][DEBUG][discord_dispatch::application_manager:190] App started. version="1.9.0"
+[2019-01-26][22:51:26][DEBUG][discord_dispatch::application_manager:969] Searching for applications. install_path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" }
+[2019-01-26][22:51:26][WARN][discord_dispatch::application_manager:973] Failed to read install path. path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" } error=Os { code: 3, kind: NotFound, message: "The system cannot find the path specified." }
+[2019-01-27][20:25:47][DEBUG][discord_dispatch::application_manager:698] Updating credentials.
+[2019-01-27][21:01:34][DEBUG][discord_dispatch::application_manager:190] App started. version="1.9.0"
+[2019-01-27][21:01:34][DEBUG][discord_dispatch::application_manager:969] Searching for applications. install_path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" }
+[2019-01-27][21:01:34][WARN][discord_dispatch::application_manager:973] Failed to read install path. path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" } error=Os { code: 3, kind: NotFound, message: "The system cannot find the path specified." }
+[2019-01-28][00:52:20][DEBUG][discord_dispatch::application_manager:698] Updating credentials.
+[2019-01-28][01:07:56][DEBUG][discord_dispatch::application_manager:698] Updating credentials.
+[2019-01-29][01:12:53][DEBUG][discord_dispatch::application_manager:698] Updating credentials.
+[2019-01-29][15:57:57][DEBUG][discord_dispatch::application_manager:190] App started. version="1.9.0"
+[2019-01-29][15:57:57][DEBUG][discord_dispatch::application_manager:969] Searching for applications. install_path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" }
+[2019-01-29][15:57:57][WARN][discord_dispatch::application_manager:973] Failed to read install path. path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" } error=Os { code: 3, kind: NotFound, message: "The system cannot find the path specified." }
+[2019-01-29][21:30:04][DEBUG][discord_dispatch::application_manager:190] App started. version="1.9.0"
+[2019-01-29][21:30:04][DEBUG][discord_dispatch::application_manager:969] Searching for applications. install_path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" }
+[2019-01-29][21:30:04][WARN][discord_dispatch::application_manager:973] Failed to read install path. path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" } error=Os { code: 3, kind: NotFound, message: "The system cannot find the path specified." }
+[2019-01-29][21:36:33][DEBUG][discord_dispatch::application_manager:698] Updating credentials.
+[2019-01-30][15:59:32][DEBUG][discord_dispatch::application_manager:190] App started. version="1.9.0"
+[2019-01-30][15:59:32][DEBUG][discord_dispatch::application_manager:969] Searching for applications. install_path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" }
+[2019-01-30][15:59:32][WARN][discord_dispatch::application_manager:973] Failed to read install path. path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" } error=Os { code: 3, kind: NotFound, message: "The system cannot find the path specified." }
+[2019-01-31][15:57:27][DEBUG][discord_dispatch::application_manager:190] App started. version="1.9.0"
+[2019-01-31][15:57:27][DEBUG][discord_dispatch::application_manager:969] Searching for applications. install_path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" }
+[2019-01-31][15:57:27][WARN][discord_dispatch::application_manager:973] Failed to read install path. path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" } error=Os { code: 3, kind: NotFound, message: "The system cannot find the path specified." }
+[2019-01-31][20:10:16][DEBUG][discord_dispatch::application_manager:190] App started. version="1.9.0"
+[2019-01-31][20:10:16][DEBUG][discord_dispatch::application_manager:969] Searching for applications. install_path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" }
+[2019-01-31][20:10:16][WARN][discord_dispatch::application_manager:973] Failed to read install path. path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" } error=Os { code: 3, kind: NotFound, message: "The system cannot find the path specified." }
+[2019-02-01][07:32:50][DEBUG][discord_dispatch::application_manager:190] App started. version="1.9.0"
+[2019-02-01][07:32:50][DEBUG][discord_dispatch::application_manager:969] Searching for applications. install_path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" }
+[2019-02-01][07:32:50][WARN][discord_dispatch::application_manager:973] Failed to read install path. path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" } error=Os { code: 3, kind: NotFound, message: "The system cannot find the path specified." }
+[2019-02-01][13:26:19][DEBUG][discord_dispatch::application_manager:190] App started. version="1.9.0"
+[2019-02-01][13:26:19][DEBUG][discord_dispatch::application_manager:969] Searching for applications. install_path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" }
+[2019-02-01][13:26:19][WARN][discord_dispatch::application_manager:973] Failed to read install path. path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" } error=Os { code: 3, kind: NotFound, message: "The system cannot find the path specified." }
+[2019-02-02][09:48:18][DEBUG][discord_dispatch::application_manager:190] App started. version="1.9.0"
+[2019-02-02][09:48:18][DEBUG][discord_dispatch::application_manager:969] Searching for applications. install_path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" }
+[2019-02-02][09:48:18][WARN][discord_dispatch::application_manager:973] Failed to read install path. path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" } error=Os { code: 3, kind: NotFound, message: "The system cannot find the path specified." }
+[2019-02-03][11:37:17][DEBUG][discord_dispatch::application_manager:190] App started. version="1.9.0"
+[2019-02-03][11:37:17][DEBUG][discord_dispatch::application_manager:969] Searching for applications. install_path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" }
+[2019-02-03][11:37:17][WARN][discord_dispatch::application_manager:973] Failed to read install path. path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" } error=Os { code: 3, kind: NotFound, message: "The system cannot find the path specified." }
+[2019-02-04][00:05:20][DEBUG][discord_dispatch::application_manager:190] App started. version="1.9.0"
+[2019-02-04][00:05:20][DEBUG][discord_dispatch::application_manager:969] Searching for applications. install_path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" }
+[2019-02-04][00:05:20][WARN][discord_dispatch::application_manager:973] Failed to read install path. path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" } error=Os { code: 3, kind: NotFound, message: "The system cannot find the path specified." }
+[2019-02-04][07:27:26][DEBUG][discord_dispatch::application_manager:190] App started. version="1.9.0"
+[2019-02-04][07:27:26][DEBUG][discord_dispatch::application_manager:969] Searching for applications. install_path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" }
+[2019-02-04][07:27:26][WARN][discord_dispatch::application_manager:973] Failed to read install path. path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" } error=Os { code: 3, kind: NotFound, message: "The system cannot find the path specified." }
+[2019-02-04][15:59:54][DEBUG][discord_dispatch::application_manager:190] App started. version="1.9.0"
+[2019-02-04][15:59:54][DEBUG][discord_dispatch::application_manager:969] Searching for applications. install_path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" }
+[2019-02-04][15:59:54][WARN][discord_dispatch::application_manager:973] Failed to read install path. path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" } error=Os { code: 3, kind: NotFound, message: "The system cannot find the path specified." }
+[2019-02-05][03:21:28][DEBUG][discord_dispatch::application_manager:698] Updating credentials.
+[2019-02-05][04:08:16][DEBUG][discord_dispatch::application_manager:698] Updating credentials.
+[2019-02-07][00:48:28][DEBUG][discord_dispatch::application_manager:190] App started. version="1.9.0"
+[2019-02-07][00:48:28][DEBUG][discord_dispatch::application_manager:969] Searching for applications. install_path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" }
+[2019-02-07][00:48:28][WARN][discord_dispatch::application_manager:973] Failed to read install path. path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" } error=Os { code: 3, kind: NotFound, message: "The system cannot find the path specified." }
+[2019-02-07][16:04:42][DEBUG][discord_dispatch::application_manager:190] App started. version="1.9.0"
+[2019-02-07][16:04:42][DEBUG][discord_dispatch::application_manager:969] Searching for applications. install_path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" }
+[2019-02-07][16:04:42][WARN][discord_dispatch::application_manager:973] Failed to read install path. path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" } error=Os { code: 3, kind: NotFound, message: "The system cannot find the path specified." }
+[2019-02-09][23:22:22][DEBUG][discord_dispatch::application_manager:698] Updating credentials.
+[2019-02-10][13:38:38][DEBUG][discord_dispatch::application_manager:190] App started. version="1.9.0"
+[2019-02-10][13:38:38][DEBUG][discord_dispatch::application_manager:969] Searching for applications. install_path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" }
+[2019-02-10][13:38:38][WARN][discord_dispatch::application_manager:973] Failed to read install path. path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" } error=Os { code: 3, kind: NotFound, message: "The system cannot find the path specified." }
+[2019-02-10][18:58:40][DEBUG][discord_dispatch::application_manager:698] Updating credentials.
+[2019-02-11][23:54:53][DEBUG][discord_dispatch::application_manager:190] App started. version="1.9.0"
+[2019-02-11][23:54:53][DEBUG][discord_dispatch::application_manager:969] Searching for applications. install_path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" }
+[2019-02-11][23:54:53][WARN][discord_dispatch::application_manager:973] Failed to read install path. path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" } error=Os { code: 3, kind: NotFound, message: "The system cannot find the path specified." }
+[2019-02-12][01:12:08][DEBUG][discord_dispatch::application_manager:698] Updating credentials.
+[2019-02-13][07:50:19][DEBUG][discord_dispatch::application_manager:190] App started. version="1.9.0"
+[2019-02-13][07:50:20][DEBUG][discord_dispatch::application_manager:969] Searching for applications. install_path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" }
+[2019-02-13][07:50:20][WARN][discord_dispatch::application_manager:973] Failed to read install path. path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" } error=Os { code: 3, kind: NotFound, message: "The system cannot find the path specified." }
+[2019-02-13][16:01:27][DEBUG][discord_dispatch::application_manager:190] App started. version="1.9.0"
+[2019-02-13][16:01:27][DEBUG][discord_dispatch::application_manager:969] Searching for applications. install_path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" }
+[2019-02-13][16:01:27][WARN][discord_dispatch::application_manager:973] Failed to read install path. path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" } error=Os { code: 3, kind: NotFound, message: "The system cannot find the path specified." }
+[2019-02-15][15:56:42][DEBUG][discord_dispatch::application_manager:190] App started. version="1.9.0"
+[2019-02-15][15:56:42][DEBUG][discord_dispatch::application_manager:969] Searching for applications. install_path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" }
+[2019-02-15][15:56:42][WARN][discord_dispatch::application_manager:973] Failed to read install path. path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" } error=Os { code: 3, kind: NotFound, message: "The system cannot find the path specified." }
+[2019-02-15][20:14:47][DEBUG][discord_dispatch::application_manager:698] Updating credentials.
+[2019-02-15][22:09:39][DEBUG][discord_dispatch::application_manager:698] Updating credentials.
+[2019-02-16][12:02:13][DEBUG][discord_dispatch::application_manager:190] App started. version="1.9.0"
+[2019-02-16][12:02:13][DEBUG][discord_dispatch::application_manager:969] Searching for applications. install_path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" }
+[2019-02-16][12:02:13][WARN][discord_dispatch::application_manager:973] Failed to read install path. path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" } error=Os { code: 3, kind: NotFound, message: "The system cannot find the path specified." }
+[2019-02-16][12:51:24][DEBUG][discord_dispatch::application_manager:698] Updating credentials.
+[2019-02-16][15:48:59][DEBUG][discord_dispatch::application_manager:190] App started. version="1.9.0"
+[2019-02-16][15:48:59][DEBUG][discord_dispatch::application_manager:969] Searching for applications. install_path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" }
+[2019-02-16][15:48:59][WARN][discord_dispatch::application_manager:973] Failed to read install path. path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" } error=Os { code: 3, kind: NotFound, message: "The system cannot find the path specified." }
+[2019-02-16][19:26:19][DEBUG][discord_dispatch::application_manager:698] Updating credentials.
+[2019-02-16][19:31:41][DEBUG][discord_dispatch::application_manager:698] Updating credentials.
+[2019-02-16][22:50:58][DEBUG][discord_dispatch::application_manager:190] App started. version="1.9.0"
+[2019-02-16][22:50:58][DEBUG][discord_dispatch::application_manager:969] Searching for applications. install_path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" }
+[2019-02-16][22:50:58][WARN][discord_dispatch::application_manager:973] Failed to read install path. path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" } error=Os { code: 3, kind: NotFound, message: "The system cannot find the path specified." }
+[2019-02-17][00:17:28][DEBUG][discord_dispatch::application_manager:190] App started. version="1.9.0"
+[2019-02-17][00:17:28][DEBUG][discord_dispatch::application_manager:969] Searching for applications. install_path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" }
+[2019-02-17][00:17:28][WARN][discord_dispatch::application_manager:973] Failed to read install path. path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" } error=Os { code: 3, kind: NotFound, message: "The system cannot find the path specified." }
+[2019-02-17][04:38:02][DEBUG][discord_dispatch::application_manager:190] App started. version="1.9.0"
+[2019-02-17][04:38:02][DEBUG][discord_dispatch::application_manager:969] Searching for applications. install_path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" }
+[2019-02-17][04:38:02][WARN][discord_dispatch::application_manager:973] Failed to read install path. path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" } error=Os { code: 3, kind: NotFound, message: "The system cannot find the path specified." }
+[2019-02-17][17:33:28][DEBUG][discord_dispatch::application_manager:190] App started. version="1.9.0"
+[2019-02-17][17:33:29][DEBUG][discord_dispatch::application_manager:969] Searching for applications. install_path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" }
+[2019-02-17][17:33:29][WARN][discord_dispatch::application_manager:973] Failed to read install path. path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" } error=Os { code: 3, kind: NotFound, message: "The system cannot find the path specified." }
+[2019-02-18][23:55:55][DEBUG][discord_dispatch::application_manager:190] App started. version="1.9.0"
+[2019-02-18][23:55:55][DEBUG][discord_dispatch::application_manager:969] Searching for applications. install_path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" }
+[2019-02-18][23:55:55][WARN][discord_dispatch::application_manager:973] Failed to read install path. path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" } error=Os { code: 3, kind: NotFound, message: "The system cannot find the path specified." }
+[2019-02-19][01:18:29][DEBUG][discord_dispatch::application_manager:698] Updating credentials.
+[2019-02-19][07:34:59][DEBUG][discord_dispatch::application_manager:190] App started. version="1.9.0"
+[2019-02-19][07:34:59][DEBUG][discord_dispatch::application_manager:969] Searching for applications. install_path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" }
+[2019-02-19][07:34:59][WARN][discord_dispatch::application_manager:973] Failed to read install path. path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" } error=Os { code: 3, kind: NotFound, message: "The system cannot find the path specified." }
+[2019-02-19][07:35:00][DEBUG][discord_dispatch::application_manager:190] App started. version="1.9.0"
+[2019-02-19][07:35:00][DEBUG][discord_dispatch::application_manager:969] Searching for applications. install_path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" }
+[2019-02-19][07:35:00][WARN][discord_dispatch::application_manager:973] Failed to read install path. path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" } error=Os { code: 3, kind: NotFound, message: "The system cannot find the path specified." }
+[2019-02-19][07:35:01][DEBUG][discord_dispatch::application_manager:232] Resume requested.
+[2019-02-20][20:51:02][DEBUG][discord_dispatch::application_manager:190] App started. version="1.9.0"
+[2019-02-20][20:51:02][DEBUG][discord_dispatch::application_manager:969] Searching for applications. install_path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" }
+[2019-02-20][20:51:02][WARN][discord_dispatch::application_manager:973] Failed to read install path. path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" } error=Os { code: 3, kind: NotFound, message: "The system cannot find the path specified." }
+[2019-02-20][21:46:52][DEBUG][discord_dispatch::application_manager:190] App started. version="1.9.0"
+[2019-02-20][21:46:52][DEBUG][discord_dispatch::application_manager:969] Searching for applications. install_path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" }
+[2019-02-20][21:46:52][WARN][discord_dispatch::application_manager:973] Failed to read install path. path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" } error=Os { code: 3, kind: NotFound, message: "The system cannot find the path specified." }
+[2019-02-21][16:04:23][DEBUG][discord_dispatch::application_manager:698] Updating credentials.
+[2019-02-21][22:25:12][DEBUG][discord_dispatch::application_manager:698] Updating credentials.
+[2019-02-22][01:21:27][DEBUG][discord_dispatch::application_manager:698] Updating credentials.
+[2019-02-22][17:14:43][DEBUG][discord_dispatch::application_manager:698] Updating credentials.
+[2019-02-22][17:52:26][DEBUG][discord_dispatch::application_manager:190] App started. version="1.9.0"
+[2019-02-22][17:52:26][DEBUG][discord_dispatch::application_manager:969] Searching for applications. install_path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" }
+[2019-02-22][17:52:26][WARN][discord_dispatch::application_manager:973] Failed to read install path. path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" } error=Os { code: 3, kind: NotFound, message: "The system cannot find the path specified." }
+[2019-02-23][11:30:06][DEBUG][discord_dispatch::application_manager:190] App started. version="1.9.0"
+[2019-02-23][11:30:06][DEBUG][discord_dispatch::application_manager:969] Searching for applications. install_path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" }
+[2019-02-23][11:30:06][WARN][discord_dispatch::application_manager:973] Failed to read install path. path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" } error=Os { code: 3, kind: NotFound, message: "The system cannot find the path specified." }
+[2019-02-24][15:35:00][DEBUG][discord_dispatch::application_manager:698] Updating credentials.
+[2019-02-24][21:02:07][DEBUG][discord_dispatch::application_manager:190] App started. version="1.9.0"
+[2019-02-24][21:02:07][DEBUG][discord_dispatch::application_manager:969] Searching for applications. install_path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" }
+[2019-02-24][21:02:07][WARN][discord_dispatch::application_manager:973] Failed to read install path. path=AbsolutePath { path_buf: "C:\\Users\\yaherrd\\AppData\\Local\\DiscordGames" } error=Os { code: 3, kind: NotFound, message: "The system cannot find the path specified." }
