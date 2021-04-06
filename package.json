@@ -1,7 +1,6 @@
 {
-  "name": "streamToBuffer",
-  "dependencies": {
-  },
+  "name": "@k239i/stream2buffer",
+  "dependencies": {},
   "description": "A module that can asynchronously convert a Stream to a Buffer.",
   "version": "1.0.0",
   "main": "streamToBuffer.js",
