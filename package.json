@@ -1,5 +1,5 @@
 {
-  "name": "@k239i/stream2buffer",
+  "name": "streamtobuffer",
   "dependencies": {},
   "description": "A module that can asynchronously convert a Stream to a Buffer.",
   "version": "1.0.0",
