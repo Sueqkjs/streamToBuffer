@@ -1,0 +1,15 @@
+{
+  "input": ["./*"],
+  "exclude": [
+    "*/buffer.ts"
+  ],
+  "compilerOptions": {
+    "strict": true,
+    "target": "es2017",
+    "moduleResolution": "node",
+    "module": "commonjs",
+    "outDir": "./",
+    "declaration": true,
+    "newLine": "lf"
+  }
+}
