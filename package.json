@@ -1,6 +1,7 @@
 {
-  "name": "streamtobuffer",
-  "dependencies": {},
+  "name": "streamToBuffer",
+  "dependencies": {
+  },
   "description": "A module that can asynchronously convert a Stream to a Buffer.",
   "version": "1.0.0",
   "main": "streamToBuffer.js",
@@ -9,7 +10,8 @@
     "typescript": "^4.2.3"
   },
   "scripts": {
-    "tsc": "tsc"
+    "tsc": "tsc",
+    "publish": "npm publish ./"
   },
   "repository": {
     "type": "git",
