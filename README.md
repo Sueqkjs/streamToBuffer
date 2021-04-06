@@ -8,7 +8,7 @@ A module that can asynchronously convert a Stream to a Buffer.
 
 TypeScript:
 ```ts
-  import { streamToBuffer } from 'streamToBuffer';
+  import { streamToBuffer } from 'streamtoBuffer';
   import * as fs from 'fs';
   const stream: any = fs.createReadStream('./bigUnnko.txt',{
     encoding: 'utf8',
@@ -25,7 +25,7 @@ TypeScript:
 
 JavaScript:
 ```js
-  const { streamToBuffer } = require('streamToBuffer');
+  const { streamToBuffer } = require('streamtoBuffer');
   const fs = require('fs');
   const stream = fs.createReadStream('./bigUnnko.txt',{
     encoding: 'utf8',
